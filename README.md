@@ -191,7 +191,3 @@ Notes:
 - With USDA nationwide files in `data/usda/`, the app supports pan-US ZIP coverage.
 - Without those files, the app still accepts any valid ZIP and resolves most ZIPs via offline `pgeocode` US data.
 - If both local lookup and offline lookup fail, it uses a national-center fallback for continuity.
-
-## License
-
-For portfolio/hackathon demo use. Add your preferred open-source license before public distribution.

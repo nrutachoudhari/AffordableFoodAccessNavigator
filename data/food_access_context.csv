@@ -1,0 +1,11 @@
+zip,county,state,estimated_low_income,estimated_low_access,access_notes,source_quality
+10001,New York,NY,0,0,Dense food retail network; higher prices in many stores,approximate
+30303,Fulton,GA,1,1,Some tracts indicate transportation and affordability barriers,approximate
+60601,Cook,IL,0,0,Strong grocery availability but cost variation by neighborhood,approximate
+73301,Travis,TX,0,0,Mixed access; relatively good transit and grocery coverage,approximate
+85004,Maricopa,AZ,1,1,Heat and transportation barriers can affect food access,approximate
+19104,Philadelphia,PA,1,1,Multiple tracts with low-income and low-access indicators,approximate
+48201,Wayne,MI,1,1,Food access challenges and affordability constraints in nearby areas,approximate
+94103,San Francisco,CA,0,0,Many options but significant affordability pressure,approximate
+37203,Davidson,TN,0,1,Good retail density but low-access pockets remain,approximate
+33130,Miami-Dade,FL,0,0,High retail presence with variable price accessibility,approximate

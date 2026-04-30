@@ -1,0 +1,7 @@
+program_name,program_type,coverage_scope,chain_name,store_name,address,zip,evidence_url,last_verified,confidence,notes
+Flashfood,food_waste_discount,chain,Meijer,,,,https://flashfood.com/,2026-04-29,high,Chain listed on Flashfood marketing pages
+Flashfood,food_waste_discount,chain,GIANT EAGLE,,,,https://flashfood.com/,2026-04-29,high,Chain listed on Flashfood marketing pages
+Flashfood,food_waste_discount,chain,Kroger,,,,https://flashfood.com/,2026-04-29,medium,Chain logo presence; verify by location page before promotion copy
+Too Good To Go,surplus_marketplace,city,,, ,10001,https://www.toogoodtogo.com/,2026-04-29,medium,Public marketplace active in many US metro areas
+Too Good To Go,surplus_marketplace,city,,, ,94103,https://www.toogoodtogo.com/,2026-04-29,medium,Public marketplace active in many US metro areas
+Too Good To Go,surplus_marketplace,city,,, ,60601,https://www.toogoodtogo.com/,2026-04-29,medium,Public marketplace active in many US metro areas

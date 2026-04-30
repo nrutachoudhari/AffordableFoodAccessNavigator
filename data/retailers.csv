@@ -1,0 +1,31 @@
+id,name,address,zip,latitude,longitude,snap_authorized,category,price_level,vegetarian_friendly,resource_type
+1,Fresh Value Market,125 W 31st St,10001,40.7480,-73.9950,1,grocery,medium,1,store
+2,Neighborhood Discount Grocer,340 8th Ave,10001,40.7518,-73.9942,1,discount_grocery,low,1,store
+3,Community Pantry Midtown,220 W 36th St,10001,40.7527,-73.9937,0,food_pantry,low,1,assistance
+4,Atlanta Family Foods,55 Peachtree St,30303,33.7541,-84.3899,1,grocery,medium,1,store
+5,Value Basket South,190 Marietta St,30303,33.7572,-84.3930,1,discount_grocery,low,0,store
+6,Fulton Food Assistance Hub,75 Broad St,30303,33.7549,-84.3911,0,food_pantry,low,1,assistance
+7,City Loop Market,200 E Randolph St,60601,41.8846,-87.6201,1,grocery,high,1,store
+8,Everyday Saver Foods,300 N Columbus Dr,60601,41.8890,-87.6206,1,discount_grocery,low,1,store
+9,Lakeshore Community Pantry,120 N Wabash Ave,60601,41.8830,-87.6260,0,food_pantry,low,1,assistance
+10,Capitol Fresh Austin,110 Congress Ave,73301,30.2683,-97.7428,1,grocery,medium,1,store
+11,Budget Food Depot,440 E 6th St,73301,30.2665,-97.7397,1,discount_grocery,low,1,store
+12,Travis Support Pantry,900 E Cesar Chavez St,73301,30.2556,-97.7348,0,food_pantry,low,1,assistance
+13,Desert Family Market,310 N Central Ave,85004,33.4515,-112.0730,1,grocery,medium,0,store
+14,Low Cost Foods Phoenix,701 E Jefferson St,85004,33.4479,-112.0646,1,discount_grocery,low,1,store
+15,Maricopa Relief Pantry,850 E Washington St,85004,33.4485,-112.0615,0,food_pantry,low,1,assistance
+16,West Philly Fresh,3900 Walnut St,19104,39.9558,-75.2035,1,grocery,medium,1,store
+17,Smart Saver Market,3720 Spruce St,19104,39.9519,-75.1986,1,discount_grocery,low,1,store
+18,Philadelphia Mutual Aid Pantry,4030 Market St,19104,39.9577,-75.2063,0,food_pantry,low,1,assistance
+19,Detroit Green Basket,4500 Cass Ave,48201,42.3518,-83.0665,1,grocery,medium,1,store
+20,Motown Budget Grocer,2820 Woodward Ave,48201,42.3504,-83.0589,1,discount_grocery,low,0,store
+21,Wayne Community Food Network,3000 John R St,48201,42.3525,-83.0478,0,food_pantry,low,1,assistance
+22,Civic Center Foods,800 Market St,94103,37.7830,-122.4091,1,grocery,high,1,store
+23,Value Choice Market SF,100 9th St,94103,37.7760,-122.4140,1,discount_grocery,medium,1,store
+24,Bay Area Food Support,50 Hyde St,94103,37.7810,-122.4150,0,food_pantry,low,1,assistance
+25,Nashville Family Grocer,720 Church St,37203,36.1620,-86.7810,1,grocery,medium,1,store
+26,Music City Budget Foods,1000 8th Ave S,37203,36.1479,-86.7787,1,discount_grocery,low,1,store
+27,Davidson Pantry Collaborative,909 Division St,37203,36.1500,-86.7755,0,food_pantry,low,1,assistance
+28,Brickell Fresh Foods,120 SW 8th St,33130,25.7650,-80.1940,1,grocery,high,1,store
+29,Miami Budget Basket,250 SW 7th St,33130,25.7670,-80.1995,1,discount_grocery,medium,1,store
+30,South Miami Community Pantry,500 SW 5th St,33130,25.7701,-80.2065,0,food_pantry,low,1,assistance

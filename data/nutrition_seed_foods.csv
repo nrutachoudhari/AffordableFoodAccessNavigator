@@ -1,0 +1,13 @@
+food_name,category,vegetarian,vegan,gluten_free,calories_kcal,protein_g,fat_g,carbs_g,fiber_g,suggested_goal
+"Greek yogurt (plain, nonfat)",dairy,1,0,1,59,10.3,0.4,3.6,0.0,high protein
+"Black beans (cooked)",legume,1,1,1,132,8.9,0.5,23.7,8.7,high fiber
+"Eggs (whole)",protein,0,0,1,143,12.6,9.5,0.7,0.0,high protein
+"Tuna (in water)",protein,0,0,1,116,25.5,0.8,0.0,0.0,high protein
+"Tofu (firm)",protein,1,1,1,144,17.3,8.7,3.0,2.3,high protein
+"Apple (raw)",fruit,1,1,1,52,0.3,0.2,13.8,2.4,low fat
+"Spinach (raw)",vegetable,1,1,1,23,2.9,0.4,3.6,2.2,low fat
+"Brown rice (cooked)",grain,1,1,1,123,2.7,1.0,25.6,1.6,balanced
+"Chicken breast (roasted)",protein,0,0,1,165,31.0,3.6,0.0,0.0,balanced
+"Oats (cooked)",grain,1,1,0,71,2.5,1.5,12.0,1.7,balanced
+"Lentils (cooked)",legume,1,1,1,116,9.0,0.4,20.1,7.9,high fiber
+"Low-fat yogurt",dairy,1,0,1,63,5.3,1.6,7.0,0.0,low fat

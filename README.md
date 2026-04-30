@@ -2,7 +2,26 @@
 
 A Streamlit MVP that helps people find affordable and healthy food options based on ZIP code, transportation access, budget, SNAP preference, and nutrition goals.
 
-Created for the Codex Creator Challenge: https://duke.joinhandshake.com/codex-creator-challenge
+Created for the Codex Creator Challenge: https://joinhandshake.com/students/codex-creator-challenge/
+
+Live app: https://affordablefoodaccessnavigator.streamlit.app/
+
+## App Walkthrough
+
+1. Open the app and enter a US ZIP code.
+2. Choose your preferences in the sidebar:
+   - budget
+   - transportation
+   - nutrition goal
+   - SNAP filter
+   - dietary preference
+3. Click **Find My Food Options**.
+4. Review:
+   - **Area Food Access Summary** (ZIP-level context)
+   - **Ranked Recommendations** (cards with reasons and confidence labels)
+   - Optional **Show recommendations on map** expander
+   - **Nutrition Explorer** table for goal-aligned foods and nutrients
+5. Open the **About** page for scoring logic, coverage stats, and methodology.
 
 ## What This MVP Does
 
